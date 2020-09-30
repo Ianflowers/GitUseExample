@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		640CB59525250248007A3760 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 640CB59425250248007A3760 /* MapForItinerary.swift */; };
 		646CAD5F25226DA200886C9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646CAD5E25226DA200886C9C /* AppDelegate.swift */; };
 		646CAD6125226DA200886C9C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646CAD6025226DA200886C9C /* SceneDelegate.swift */; };
 		646CAD6325226DA200886C9C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646CAD6225226DA200886C9C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		640CB59425250248007A3760 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 		646CAD5B25226DA200886C9C /* GitUseExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUseExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		646CAD5E25226DA200886C9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		646CAD6025226DA200886C9C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				646CAD5E25226DA200886C9C /* AppDelegate.swift */,
+				640CB59425250248007A3760 /* MapForItinerary.swift */,
 				646CAD6025226DA200886C9C /* SceneDelegate.swift */,
 				646CAD6225226DA200886C9C /* ViewController.swift */,
 				646CAD6425226DA200886C9C /* Main.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				640CB59525250248007A3760 /* MapForItinerary.swift in Sources */,
 				646CAD6325226DA200886C9C /* ViewController.swift in Sources */,
 				646CAD5F25226DA200886C9C /* AppDelegate.swift in Sources */,
 				646CAD6125226DA200886C9C /* SceneDelegate.swift in Sources */,
